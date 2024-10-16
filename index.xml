@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>UFMA Imperatriz</title>
+    <link>https://portalpadrao.ufma.br/imperatriz</link>
+    <description>Centro de Ciências de Imperatriz</description>
+    <language>pt-BR</language>
+    <copyright>Todo o conteúdo deste site está publicado sob a licença Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada.</copyright>
+    <atom:link href="https://portalpadrao-ufma-imperatriz.github.io/index.xml" rel="self" type="application/rss+xml"/>
+    <image>
+      <url>https://portalpadrao.ufma.br/site/institucional/superintendencias/sce/manual-da-marca/vertical-1.png</url>
+      <title>UFMA</title>
+      <link>https://portalpadrao.ufma.br/site</link>
+      <width>144</width>
+      <height>144</height>
+    </image>
+    <item>
+      <title>TV UFMA: nove anos compartilhando ciência, inovação e cultura</title>
+      <link>https://portalpadrao.ufma.br/site/tv-ufma-nove-anos-compartilhando-ciencia-inovacao-e-cultura</link>
+      <description><![CDATA[A TV UFMA celebrou seus nove anos de atividades com um seminário sobre comunicação pública, destacando sua contribuição para a divulgação de ciência e cultura.]]></description>
+      <pubDate>Tue, 08 Oct 2024 21:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://portalpadrao.ufma.br/site/tv-ufma-nove-anos-compartilhando-ciencia-inovacao-e-cultura</guid>
+      <media:content url="https://portalpadrao.ufma.br/site/tv-ufma-nove-anos-compartilhando-ciencia-inovacao-e-cultura/02.png/@@images/da3dc1db-57ac-4caf-a85a-a5e9cde96564.png" medium="image"/>
+    </item>
+    <item>
+      <title>Projeto de extensão da UFMA resgata memórias e história do Porto do Itaqui</title>
+      <link>https://portalpadrao.ufma.br/site/noticias/projeto-de-extensao-da-ufma-resgata-memorias-e-historia-do-porto-do-itaqui</link>
+      <description><![CDATA[O projeto "Aportando nas Águas da Memória" resgata a história e as memórias do Porto do Itaqui por meio de entrevistas e atividades educacionais com estudantes da região.]]></description>
+      <pubDate>Tue, 08 Oct 2024 14:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://portalpadrao.ufma.br/site/noticias/projeto-de-extensao-da-ufma-resgata-memorias-e-historia-do-porto-do-itaqui</guid>
+      <media:content url="https://portalpadrao.ufma.br/site/noticias/projeto-de-extensao-da-ufma-resgata-memorias-e-historia-do-porto-do-itaqui/oficina-aportando-nas-aguas-da-memoria-1.jpg/@@images/15f8c84f-9c28-4270-886d-16251d3c6bfb.jpeg" medium="image"/>
+    </item>
+    <item>
+      <title>Pesquisadores do PPGO coordenam treinamento em Saúde Bucal para profissionais dos Distritos Sanitários Especiais Indígenas em Roraima</title>
+      <link>https://portalpadrao.ufma.br/site/noticias/pesquisadores-do-ppgo-coordenam-treinamento-em-saude-bucal-para-profissionais-dos-distritos-sanitarios-especiais-indigenas-em-roraima</link>
+      <description><![CDATA[Pesquisadores da UFMA conduziram uma qualificação em saúde bucal para profissionais de saúde indígena no território Yanomami, Roraima, focando em prevenção de doenças bucais.]]></description>
+      <pubDate>Fri, 04 Oct 2024 15:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://portalpadrao.ufma.br/site/noticias/pesquisadores-do-ppgo-coordenam-treinamento-em-saude-bucal-para-profissionais-dos-distritos-sanitarios-especiais-indigenas-em-roraima</guid>
+      <media:content url="https://portalpadrao.ufma.br/site/noticias/pesquisadores-do-ppgo-coordenam-treinamento-em-saude-bucal-para-profissionais-dos-distritos-sanitarios-especiais-indigenas-em-roraima/2024-10-04-ppgo-em-roraima-2.jpeg/@@images/849ab0b7-5617-4c27-9f12-c8e272a84c4e.jpeg" medium="image"/>
+    </item>
+    <item>
+      <title>Formando do curso de Jornalismo escreve livro-reportagem sobre os 40 anos da UFMA em Imperatriz</title>
+      <link>https://portalpadrao.ufma.br/site/noticias/formando-do-curso-de-jornalismo-escreve-livro-reportagem-sobre-os-40-anos-da-ufma-em-imperatriz</link>
+      <description><![CDATA[João Carlos Alcântara produziu um livro-reportagem como TCC, abordando os 40 anos da UFMA em Imperatriz, narrando desde sua criação até os dias atuais.]]></description>
+      <pubDate>Fri, 04 Oct 2024 15:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://portalpadrao.ufma.br/site/noticias/formando-do-curso-de-jornalismo-escreve-livro-reportagem-sobre-os-40-anos-da-ufma-em-imperatriz</guid>
+      <media:content url="https://portalpadrao.ufma.br/site/noticias/formando-do-curso-de-jornalismo-escreve-livro-reportagem-sobre-os-40-anos-da-ufma-em-imperatriz/2024-10-04-40-anos-da-ufma-em-imperatriz-1.jpeg/@@images/022a5c14-1df8-48dd-a01c-3159f9d67746.jpeg" medium="image"/>
+    </item>
+    <item>
+      <title>Estão abertas as inscrições para o Mestrado em Educação e Práticas Educativas na UFMA Imperatriz</title>
+      <link>https://portalpadrao.ufma.br/site/noticias/estao-abertas-as-inscricoes-para-o-mestrado-em-educacao-e-praticas-educativas-na-ufma-imperatriz</link>
+      <description><![CDATA[O mestrado oferece 27 vagas em duas linhas de pesquisa, com foco em práticas pedagógicas e interculturalidade. As inscrições estão abertas até 18 de outubro de 2024.]]></description>
+      <pubDate>Fri, 04 Oct 2024 13:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://portalpadrao.ufma.br/site/noticias/estao-abertas-as-inscricoes-para-o-mestrado-em-educacao-e-praticas-educativas-na-ufma-imperatriz</guid>
+      <media:content url="https://portalpadrao.ufma.br/site/noticias/estao-abertas-as-inscricoes-para-o-mestrado-em-educacao-e-praticas-educativas-na-ufma-imperatriz/2024-10-04-mestrado-em-educacao-e-praticas-educativas-na-ufma-imperatriz.jpeg/@@images/3dd728f0-7755-48a8-bcee-22896813c5e7.jpeg" medium="image"/>
+    </item>
+    <item>
+      <title>Caminhos Amefricanos: UFMA e MIR alinham ações para receber intercambistas de Cabo Verde, Colômbia e Moçambique</title>
+      <link>https://portalpadrao.ufma.br/site/caminhos-amefricanos-ufma-e-mir-alinham-acoes-para-receber-intercambistas-de-cabo-verde-colombia-e-mocambique</link>
+      <description><![CDATA[A Universidade Federal do Maranhão reafirma seu compromisso em promover a igualdade racial e valorizar a diversidade cultural, sendo um importante protagonista no “Caminhos Amefricanos: Programa de Intercâmbios Sul-Sul”, desenvolvido pelo Ministério da Igualdade Racial (MIR), em parceria com o Ministério da Educação (MEC) e a Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES).]]></description>
+      <pubDate>Fri, 04 Oct 2024 01:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://portalpadrao.ufma.br/site/caminhos-amefricanos-ufma-e-mir-alinham-acoes-para-receber-intercambistas-de-cabo-verde-colombia-e-mocambique</guid>
+      <media:content url="https://portalpadrao.ufma.br/site/caminhos-amefricanos-ufma-e-mir-alinham-acoes-para-receber-intercambistas-de-cabo-verde-colombia-e-mocambique/capa-site-valendo-2-novo-1920-1080.jpg/@@images/232ab870-6a5f-436d-b925-6d46fb31fc59.jpeg" medium="image"/>
+    </item>
+  </channel>
+</rss>
